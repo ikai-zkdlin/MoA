@@ -37,7 +37,7 @@ bash run_DG.sh
 #### Implementation
 <hr/>
 
-For details about MTA and MixAdapter, please refer to the files /models/adapter.py and /models/custom_modules.py.
+For details about MTA and MixAdapter, please refer to the files [/models/adapter.py](https://github.com/ikai-zkdlin/MoA/blob/main/models/adapter.py#L79) and [/models/custom_modules.py](https://github.com/ikai-zkdlin/MoA/blob/4165a33f9c144056ff87a7ff62f2904e11b0fbf3/models/custom_modules.py#L51).
 
 
 #### Acknowledgement
